@@ -1,0 +1,39 @@
+
+/* General List Item Styles */
+ul {
+    list-style-type: none;
+}
+  
+li {
+    display: inline-block;
+    line-height: 30px;
+}
+
+.btn {
+    margin-bottom: 3px;
+}
+
+.head {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* Specifics */
+.banner {
+    text-align: center;
+    background-color: grey;
+    height: fit-content;
+}
+
+.fDate{
+    text-align: center;
+    font-weight: bold;
+}
+
+#intro{
+    margin-right: 10%;
+}
+
+#mo{
+    margin-top: 15%;
+}
